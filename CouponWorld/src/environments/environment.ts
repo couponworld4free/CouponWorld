@@ -6,3 +6,6 @@
 export const environment = {
   production: false
 };
+export const envi={
+  url:'google.com'
+};
